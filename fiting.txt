@@ -1,0 +1,9 @@
+
+distribution: uniform, data entries: 1000000  mean: 100.0  sigma: 200.0
+
+
+************************************************************ ACTUAL STRUCTURE (FIT-ing TREE) ************************************************************
+
+#segments:  1159
+segments length:  863
+height:  3
